@@ -41,13 +41,16 @@ Con esta instrucción, se obtiene la información del Pokémon solicitado, inclu
  ## 🖼️ Estructura del Proyecto
 
 POKEDEX/
-│
-├── index.html       # Página principal del proyecto
-├── pokedex.css      # Estilos del diseño de la Pokedex
-├── pokede.js        # Lógica principal con conexión a la PokeAPI
-├── Poke_ball.png    # Imagen decorativa
-├── rotomdex.png     # Imagen de referencia adicional
-└── README.md        # Documentación del proyecto
+```
+├── 🖼️ Poke_ball.png
+├── 📝 README.md
+├── 🖼️ image.png
+├── 🌐 index.html
+├── 📄 pokede.js
+├── 🎨 pokedex.css
+└── 🖼️ rotomdex.png
+```
+
 
 
 ## 📱 Características Principales
